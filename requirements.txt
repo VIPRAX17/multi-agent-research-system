@@ -1,0 +1,24 @@
+# --- LangChain core (LCEL pipelines with Runnables) ---
+langchain
+langchain-core
+langchain-community
+
+# --- OpenAI LLMs for the agents ---
+langchain-openai
+openai
+tiktoken
+
+# --- ReAct agents / multi-agent orchestration ---
+langgraph
+
+# --- Tool 1: Tavily web search ---
+langchain-tavily
+tavily-python
+
+# --- Tool 2: BeautifulSoup web scraping ---
+beautifulsoup4
+requests
+lxml
+
+# --- Environment variables (OPENAI_API_KEY, TAVILY_API_KEY) ---
+python-dotenv
