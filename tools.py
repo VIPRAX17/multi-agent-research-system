@@ -25,7 +25,7 @@ def web_search(query: str) -> str:
 
     return "\n----\n".join(out)
 
-print(web_search.invoke("what is the recent news of war?")) 
+#print(web_search.invoke("what is the recent news of war?")) 
 
 
 

@@ -22,3 +22,7 @@ lxml
 
 # --- Environment variables (OPENAI_API_KEY, TAVILY_API_KEY) ---
 python-dotenv
+
+
+streamlit
+rich
